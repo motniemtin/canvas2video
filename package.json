@@ -1,5 +1,5 @@
 {
-    "name": "@pankod/canvas2video",
+    "name": "motniemtin/canvas2video",
     "version": "1.0.4",
     "description": "canvas to video renderer",
     "main": "dist/index.js",
